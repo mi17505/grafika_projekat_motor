@@ -1,0 +1,25 @@
+# ninja log v5
+43717	46648	1692373450668861517	/home/sindjelic/Documents/PROJEKATfinal/projekat_grafika_motor/project_base	4b4ea491e919d373
+29745	30362	1692373434388014566	libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_opengl3.cpp.o	d1935af49f39762a
+8502	29040	1692373433052282075	libs/imgui/CMakeFiles/imgui.dir/src/imgui.cpp.o	2042b0fc90f930e9
+21475	30328	1692373434348022554	libs/imgui/CMakeFiles/imgui.dir/src/imgui_demo.cpp.o	518703b44f5bbf33
+30362	43332	1692373447349488397	libs/imgui/CMakeFiles/imgui.dir/src/imgui_widgets.cpp.o	3a350ce7ac6433e3
+43332	43717	1692373447593442059	libs/imgui/libimgui.a	a83828357452b5ac
+23426	24677	1692373428701163423	libSTB_IMAGE.a	f53ddf8b18f4f19f
+467	5900	1692373409921141686	libs/glad/CMakeFiles/glad.dir/src/glad.c.o	8bf45e506fe7ed8b
+30329	35447	1692373439471008821	libs/imgui/CMakeFiles/imgui.dir/src/imgui_tables.cpp.o	6e820edd8e175f76
+9536	10613	1692287766559623578	/home/sindjelic/Documents/GrafikaBaza/project_base/project_base	788d730ebab00cae
+29040	29745	1692373433772137747	libs/imgui/CMakeFiles/imgui.dir/src/imgui_impl_glfw.cpp.o	ecf7b731f88c8666
+5900	8501	1692373412524572868	libs/glad/libglad.a	42a887e5ef37191
+24677	37762	1692373441774559456	libs/imgui/CMakeFiles/imgui.dir/src/imgui_draw.cpp.o	9c1dd0259de09817
+16194	17793	1692369461695469309	/home/sindjelic/Documents/projekatGRAFIKAmotor/project_base	532ce75f7df29b27
+463	23426	1692373427445420542	CMakeFiles/STB_IMAGE.dir/libs/stb_image.cpp.o	2f68b8edfc93ff70
+467	21475	1692373425469827566	CMakeFiles/project_base.dir/src/main.cpp.o	f9e4cd0f3ba5bf2d
+10	9436	1692373857786095232	CMakeFiles/project_base.dir/src/main.cpp.o	f9e4cd0f3ba5bf2d
+9459	11033	1692373859386030858	/home/sindjelic/Documents/PROJEKATfinal/projekat_grafika_motor/project_base	4b4ea491e919d373
+3	8241	1692374612692936414	CMakeFiles/project_base.dir/src/main.cpp.o	f9e4cd0f3ba5bf2d
+8241	10646	1692374615105201296	/home/sindjelic/Documents/PROJEKATfinal/projekat_grafika_motor/project_base	4b4ea491e919d373
+31	12790	1692375435806683766	CMakeFiles/project_base.dir/src/main.cpp.o	f9e4cd0f3ba5bf2d
+12790	15083	1692375438102074705	/home/sindjelic/Documents/PROJEKATfinal/projekat_grafika_motor/project_base	4b4ea491e919d373
+322	21669	1692376034873181597	CMakeFiles/project_base.dir/src/main.cpp.o	f9e4cd0f3ba5bf2d
+21669	26884	1692376040092998876	/home/sindjelic/Documents/PROJEKATfinal/projekat_grafika_motor/project_base	4b4ea491e919d373
